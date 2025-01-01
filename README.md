@@ -11,8 +11,8 @@ Akshay
 
 Brandon 
 
-1.
-2.
+1. Improving Interpretation Faithfulness for Vision Transformers 
+2. Remembering to Be Fair: Non-Markovian Fairness in Sequential Decision Making
 
 Max
 
