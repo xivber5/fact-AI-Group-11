@@ -21,5 +21,5 @@ Max
 
 Yitjun
 
-1.
-2.
+1. Stabilized LIME for Consistent Explanations for Image Classification
+2. Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability
