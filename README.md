@@ -1,9 +1,10 @@
 # fact-AI-Group-3
 
 
-Link to all paper : https://canvas.uva.nl/courses/45955/pages/papers-to-reproduce?module_item_id=2317123
-Latex report : https://www.overleaf.com/5954137532pkxfjzssddct#d7c528
-Sv word : https://docs.google.com/document/d/1GFuBLxV-WLzVwot67rqJgdrYanhmmbQv1a4hkSJoHoI/edit?usp=sharing
+Link to all paper : https://canvas.uva.nl/courses/45955/pages/papers-to-reproduce?module_item_id=2317123 \\
+Latex report : https://www.overleaf.com/5954137532pkxfjzssddct#d7c528 \\ 
+Sv word : https://docs.google.com/document/d/1GFuBLxV-WLzVwot67rqJgdrYanhmmbQv1a4hkSJoHoI/edit?usp=sharing \\
+
 
 
 Akshay 
