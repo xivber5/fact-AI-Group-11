@@ -14,12 +14,16 @@ Our paper "Improving Interpretation Faithfulness for Vision Transformers " : htt
 
 Original Githubrepo : https://github.com/kaustpradalab/FViT
 
+
 VTA baseline codebase: https://github.com/hila-chefer/Transformer-Explainability
+
 The original ADM paper by OpenAI for guided-diffusion: https://arxiv.org/pdf/2105.05233
-Yannic Kichler walkthrough on the ADM paper (actually on Imroved diffusion which was also work from OpenA and then they come up with ADM)
+
+Yannic Kichler walkthrough on the ADM paper (actually on Imroved diffusion which was also work from OpenA and then they come up with ADM) : https://www.youtube.com/watch?v=W-O7AZNzbzQ&t=250s
+
 Other usefull resource in difussion models:
-UC-Berkley Lecture
-Aleksa Gordic Playlist on Diffusion Models
+UC-Berkley Lecture : https://www.youtube.com/watch?v=DsEDMjdxOv4
+Aleksa Gordic Playlist on Diffusion Models : https://www.youtube.com/playlist?list=PLBoQnSflObcnYM35qBaDFQjaJEh_5Wx-O
 
 
 Akshay 
