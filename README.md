@@ -9,7 +9,18 @@ Sv word : https://docs.google.com/document/d/1GFuBLxV-WLzVwot67rqJgdrYanhmmbQv1a
 
 Meeting Notes : https://docs.google.com/document/d/13bAdq1OeLkUCMVfafuyhDuDf4Uuzb2seCmAd52_yj48/edit?tab=t.0
 
+
 Our paper "Improving Interpretation Faithfulness for Vision Transformers " : https://arxiv.org/pdf/2311.17983
+
+Original Githubrepo : https://github.com/kaustpradalab/FViT
+
+VTA baseline codebase: https://github.com/hila-chefer/Transformer-Explainability
+The original ADM paper by OpenAI for guided-diffusion: https://arxiv.org/pdf/2105.05233
+Yannic Kichler walkthrough on the ADM paper (actually on Imroved diffusion which was also work from OpenA and then they come up with ADM)
+Other usefull resource in difussion models:
+UC-Berkley Lecture
+Aleksa Gordic Playlist on Diffusion Models
+
 
 Akshay 
 
