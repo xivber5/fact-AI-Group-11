@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#SBATCH --partition=gpu_a100
+#SBATCH --gpus=1
+#SBATCH --job-name=PERTU-N
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=9
+#SBATCH --time=10:00:00
+#SBATCH --output=slurm_output_%A.out
+
+module purge
+module load 2023
+module load OpenMPI/4.1.5-NVHPC-24.5-CUDA-12.1.1
+module load Anaconda3/2023.07-2
+source activate fact
+
+srun python perturbation_test.py --method rollout --mode neg --subset 4000 --radii 7 --masks 9
+srun python perturbation_test.py --method lrp --mode neg --subset 4000 --radii 7 --masks 9
+srun python perturbation_test.py --method vta --mode neg --subset 4000 --radii 7 --masks 9
+srun python perturbation_test.py --method raw_attn --mode neg --subset 4000 --radii 7 --masks 9
+srun python perturbation_test.py --method gradcam --mode neg --subset 4000 --radii 7 --masks 9
